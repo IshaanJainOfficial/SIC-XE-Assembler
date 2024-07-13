@@ -1,0 +1,4 @@
+--- PASS 1 ---
+
+--- PASS 2 ---
+Line 20 : Symbol doesn't exists. Found VALB+4
